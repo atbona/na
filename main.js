@@ -87,16 +87,52 @@ let All_song = [
 	 singer: "10"	
    },
    {
-	 name: "remix10" ,
+	 name: "remix11" ,
 	 path: "11.mp3" ,
 	 img: "img1.jpg" ,
 	 singer: "11"	
    },
    {
-	 name: "remix10" ,
+	 name: "remix12" ,
 	 path: "12.mp3" ,
 	 img: "img1.jpg" ,
 	 singer: "12"	
+   },
+	{
+	 name: "remix13" ,
+	 path: "13.mp3" ,
+	 img: "img1.jpg" ,
+	 singer: "13"
+   },
+   {
+	 name: "remix14" ,
+	 path: "14.mp3" ,
+	 img: "img1.jpg" ,
+	 singer: "14"
+   },
+   {
+	 name: "remix15" ,
+	 path: "15.mp3" ,
+	 img: "img1.jpg" ,
+	 singer: "15"
+   },
+   {
+	 name: "remix16" ,
+	 path: "16.mp3" ,
+	 img: "img1.jpg" ,
+	 singer: "16"	
+   },
+   {
+	 name: "remix17" ,
+	 path: "17.mp3" ,
+	 img: "img1.jpg" ,
+	 singer: "17"	
+   },
+   {
+	 name: "remix18" ,
+	 path: "18.mp3" ,
+	 img: "img1.jpg" ,
+	 singer: "18"	
    },
 ];
 
