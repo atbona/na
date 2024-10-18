@@ -86,6 +86,12 @@ let All_song = [
 	 img: "img1.jpg" ,
 	 singer: "10"	
    },
+   {
+	 name: "remix10" ,
+	 path: "11.mp3" ,
+	 img: "img1.jpg" ,
+	 singer: "10"	
+   },
 ];
 
 
