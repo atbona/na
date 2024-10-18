@@ -90,7 +90,13 @@ let All_song = [
 	 name: "remix10" ,
 	 path: "11.mp3" ,
 	 img: "img1.jpg" ,
-	 singer: "10"	
+	 singer: "11"	
+   },
+   {
+	 name: "remix10" ,
+	 path: "12.mp3" ,
+	 img: "img1.jpg" ,
+	 singer: "12"	
    },
 ];
 
